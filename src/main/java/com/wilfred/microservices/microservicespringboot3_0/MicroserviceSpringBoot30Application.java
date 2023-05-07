@@ -5,9 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class MicroserviceSpringBoot30Application {
-
-	public static void main(String[] args) {
-		SpringApplication.run(MicroserviceSpringBoot30Application.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(MicroserviceSpringBoot30Application.class, args);
+    }
 }

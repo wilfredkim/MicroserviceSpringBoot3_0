@@ -1,10 +1,10 @@
-package com.wilfred.microservices.microservicespringboot3_0;
+package com.wilfred.configserver.configserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MicroserviceSpringBoot30ApplicationTests {
+class ConfigServerApplicationTests {
 
     @Test
     void contextLoads() {

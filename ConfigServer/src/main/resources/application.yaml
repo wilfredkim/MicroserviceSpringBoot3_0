@@ -1,0 +1,7 @@
+server:
+  port: 1018
+
+spring:
+  application:
+    name: config-server
+
