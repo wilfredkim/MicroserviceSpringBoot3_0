@@ -1,8 +1,6 @@
 server:
   port: 1015
-  spring:
-  application:
-    name: department-service
+
 eureka:
   client:
     service-url:
