@@ -6,9 +6,9 @@
         <artifactId>MicroserviceSpringBoot3_0</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-    <artifactId>EmployeeService</artifactId>
+    <artifactId>ApiGateway</artifactId>
     <packaging>war</packaging>
-    <name>EmployeeService Maven Webapp</name>
+    <name>ApiGateway Maven Webapp</name>
     <url>http://maven.apache.org</url>
     <dependencies>
         <dependency>
@@ -19,6 +19,6 @@
         </dependency>
     </dependencies>
     <build>
-        <finalName>EmployeeService</finalName>
+        <finalName>ApiGateway</finalName>
     </build>
 </project>

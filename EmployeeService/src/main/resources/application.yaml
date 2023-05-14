@@ -2,9 +2,7 @@ spring:
   config:
     import: "optional:configserver:http://localhost:1018"
   application:
-   name: department-service
-
-
+   name: employee-service
 
 
 

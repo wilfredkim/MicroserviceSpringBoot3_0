@@ -13,6 +13,8 @@
         <module>ServiceRegistry</module>
         <module>DepartmentService</module>
         <module>ConfigServer</module>
+        <module>EmployeeService</module>
+        <module>ApiGateway</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -23,6 +25,8 @@
     <properties>
         <java.version>17</java.version>
         <spring-cloud.version>2022.0.2</spring-cloud.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+
 
     </properties>
     <dependencies>
